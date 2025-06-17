@@ -24,16 +24,6 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'Fake F1',
             avatar: 'media/avatar2.jpg',
-            mediaSrc: 'media/reel1.mp4',
-            caption: 'Das ist der zweite Post, und zwar ein Reel',
-            likes: 345,
-            comments: [
-            ]
-        },
-        {
-            type: 'reel',
-            username: 'Fake F1',
-            avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel 2_funny_dogs.mp4',
             caption: 'Das ist der zweite Post, und zwar ein Reel',
             likes: 345,
