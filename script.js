@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             likes: 345,
             comments: [
             ]
-        }
+        },
         {
             type: 'reel',
             username: 'Fake F1',
