@@ -13,9 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'the.home.edit',
             avatar: '', 
             mediaSrc: 'media/Post1_HomeDecor.jpg',  
-            caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.
-                What's your favorite corner in your space?💖
-                #HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
+            caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.'
+                'What's your favorite corner in your space?💖'
+                '#HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
             likes: 9.483,
             comments: [
                 { user: 'alia.xtr', text: 'Love the aesthetics!' },
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'dwnews',
             avatar: 'media/avatar2.jpg',
-            mediaSrc: 'media/Reel4_NewsGraz.mp4',
+            mediaSrc: 'media/Reel14_NewsGraz.mp4',
             caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.'
                     'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
             likes: 4.638,
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'alenawinternaturalhealth',
             avatar: 'media/avatar2.jpg',
-            mediaSrc: 'media/Ree7_MHHealDepression.mp4',
+            mediaSrc: 'media/Reel7_MHHealDepression.mp4',
             caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛
                     'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗'
                     'And please note: if you’re really struggling, seeking help is essential. These recommendations are not designed to replace professional support. They can (and should) be used alongside any other treatments you’re already doing (although not all supplements are safe with medications, so always work with an experienced naturopath or herbalist for guidance on taking supplements/herbs with medications. You also likely won’t need everything listed here, these are just some examples) 🌿💊',
@@ -46,7 +46,60 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'mirmaidg', text: 'That meal at the end looked so yummy, what was in that?' },
                 { user: 'margot_utrecht', text: 'Every doctor should start with these before even thinking about medication!' }
             ]
-        }
+    },       
+    }
+        {
+            type: 'reel',
+            username: '9gag',
+            avatar: 'media/avatar2.jpg',
+            mediaSrc: 'media/Reel2_FunnyDogs.mp4',
+            caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! #barked #dog #doggo # AmericanPitbullTerrier # 9gag',
+            likes: 246k,
+            comments: [
+                { user: 'big_geezy_wee', text: 'That's nuts 🥜' },
+                { user: 'teachermisery', text: 'This is the kind of real life brilliance that AI could never conjure up' }
+            ]
+    },       
+    }
+    {
+            type: 'post',
+            username: 'lifewithbooks',
+            avatar: 'media/avatar2.jpg',
+            mediaSrc: 'media/Post3_book.jpg',
+            caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂'
+                    '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
+            likes: 78.612k,
+            comments: [
+                { user: 'romantasygirl', text: 'OMG I am stilly crying!!!' },
+                { user: 'claire_xoxo', text: 'Rebecca better bring him back in the next one😭' }
+            ]
+    }, 
+        {
+            type: 'reel',
+            username: 'scottvisits',
+            avatar: 'media/avatar2.jpg',
+            mediaSrc: 'media/Reel1_Travel.mp4',
+            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels'
+                    '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta,
+            likes: 104k,
+            comments: [
+                { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
+                { user: 'mrdemosho', text: 'Where do you recommend in Slovenia please' }
+            ]
+    },   
+             {
+            type: 'reel',
+            username: 'scottvisits',
+            avatar: 'media/avatar2.jpg',
+            mediaSrc: 'media/Reel1_Travel.mp4',
+            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels'
+                    '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta,
+            likes: 104k,
+            comments: [
+                { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
+                { user: 'mrdemosho', text: 'Where do you recommend in Slovenia please' }
+            ]
+    },       
         
         //,
         //{
