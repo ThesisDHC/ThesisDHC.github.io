@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'post',
             username: 'healthydiary',
             avatar: '',
-            mediaSrc: 'media/post2_BuddhaBowl.jpg',
+            mediaSrc: 'media/Post2_BuddhaBowl.jpg',
             caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
                     'What is your favorite healthy go-to? <br>' +
                     '#Healthyeating #Recipeshare #Mealprep #Foodie #Cleaneating #Nutritious',
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'therebirthingjourney',
             avatar: '',
-            mediaSrc: 'media/reel11_MHYogaDepression',
+            mediaSrc: 'media/Reel11_MHYogaDepression.mp4',
             caption: 'Depressed???<br>' +
                     'It’s a state of mind only and you can change it. Do some dynamic practice and depression will not come to you.<br>' +
                     'Join me in upcoming Himalayan kriya yoga program.<br>' +
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: '9gag and richmngani24',
             avatar: '',
-            mediaSrc: 'media/reel3_FunnyBed.mp4',
+            mediaSrc: 'media/Reel3_FunnyBed.mp4',
             caption: 'When you are wasting a Saturday at home, rotting in bed, and it starts raining outside.<br>' +
                     '#fyp #reels #viral #southafrica #foryou #explore',
             likes: '978k',
@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'themadfitapp and grapefitt',
             avatar: '',
-            mediaSrc: 'media/reel5_Fitness.mp4',
+            mediaSrc: 'media/Reel5_Fitness.mp4',
             caption: 'Who is Liney calling out🫣<br>' +
                     'Send this to someone who needs to take a hint and do Liney\'s newest Quiet Cardio workout👇',
             likes: '636',
@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'post',
             username: 'easymentalhealth',
             avatar: '',
-            mediaSrc: 'media/post4_MH.jpg',
+            mediaSrc: 'media/Post4_MH.jpg',
             caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let\'s explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?<br>' +
                     '#Mentalwellnessjourney #Holistichealth #Emotionalwellbeing #Beyondthepill',
             likes: '22.870',
@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'nytimes',
             avatar: '',
-            mediaSrc: 'media/reel15_NewsLAProtests.mp4',
+            mediaSrc: 'media/Reel15_NewsLAProtests.mp4',
             caption: 'Experts say that some aggressive measure used by the authorities in the Los Angeles protests have violated policies as well as injunctions put into place after the George Floyd protests. Livia Albeck-Ripka, a New York Times reporter based in Los Angeles, describes how she was one of the reporters struck by crowd control munitions.<br>' +
                     'Read the latest updates from the protests in California at the link in our bio.<br>' +
                     'Video by Livia Albeck-Ripka, Gabriel Blanco, Christina shaman and Nikolay Nikolov/The New York Times',
@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: '9gag',
             avatar: '',
-            mediaSrc: 'media/reel4_FunnyCow',
+            mediaSrc: 'media/Reel4_FunnyCow',
             caption: 'living in the moment🌿',
             likes: '212k',
             comments: [
