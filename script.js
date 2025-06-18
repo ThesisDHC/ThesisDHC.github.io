@@ -28,9 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'dwnews',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel14_NewsGraz.mp4',
-            caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.'
+            caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.' + 
                     'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
-            likes: 4.638,
+            likes: '4.638',
             comments: [
             ]
     },
@@ -39,41 +39,41 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'alenawinternaturalhealth',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel7_MHHealDepression.mp4',
-            caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛
-                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗'
+            caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
+                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗 <br>' +
                     'And please note: if you’re really struggling, seeking help is essential. These recommendations are not designed to replace professional support. They can (and should) be used alongside any other treatments you’re already doing (although not all supplements are safe with medications, so always work with an experienced naturopath or herbalist for guidance on taking supplements/herbs with medications. You also likely won’t need everything listed here, these are just some examples) 🌿💊',
-            likes: 1.374,
+            likes: '1.374',
             comments: [
                 { user: 'mirmaidg', text: 'That meal at the end looked so yummy, what was in that?' },
                 { user: 'margot_utrecht', text: 'Every doctor should start with these before even thinking about medication!' }
             ]
-    },   
-    {
+        },       
+        {
             type: 'reel',
             username: '9gag',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel2_FunnyDogs.mp4',
-            caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! #barked #dog #doggo # AmericanPitbullTerrier # 9gag',
-            likes: 246k,
+            caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! #barked #dog #doggo #AmericanPitbullTerrier #9gag',
+            likes: '246k',
             comments: [
-                { user: 'big_geezy_wee', text: 'That's nuts 🥜' },
+                { user: 'big_geezy_wee', text: 'That\'s nuts 🥜' },
                 { user: 'teachermisery', text: 'This is the kind of real life brilliance that AI could never conjure up' }
             ]
-    },
-     {
+        },       
+        {
             type: 'post',
             username: 'lifewithbooks',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Post3_book.jpg',
-            caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂'
+            caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
                     '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
-            likes: 78.612k,
+            likes: '78.612k',
             comments: [
                 { user: 'romantasygirl', text: 'OMG I am stilly crying!!!' },
                 { user: 'claire_xoxo', text: 'Rebecca better bring him back in the next one😭' }
             ]
-    },
-    {
+        }, 
+        {
             type: 'reel',
             username: 'allthingsneena',
             avatar: 'media/avatar2.jpg',
@@ -111,8 +111,10 @@ document.addEventListener('DOMContentLoaded', () => {
             ]
     },   
     {
+        },   
+        {
             type: 'reel',
-            username: 'scottvisits',
+            username: 'allthingsneena',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel1_Travel.mp4',
             caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels'
@@ -146,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/reel3_FunnyBed.mp4',
             caption: 'When you are wasting a Saturday at home, rotting in bed, and it starts raining outside.
                     '#fyp #reels #viral #southafrica #foryou #explore',
-            likes: 978k,
+            likes: '978k',
             comments: [
                 { user: 'marmiko_deceita', text: 'The rain confirms that I am right where I am supposed to be😂' },
                 { user: 'doramustabitha', text: 'Mother nature saing "Get comfy baby, we going to binge todayyy"👏😂😂😂' }
@@ -158,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/reel5_Fitness.mp4',
             caption: 'Who is Liney calling out🫣'
-                    'Send this to someone who needs to take a hint and do Liney's newest Quiet Cardio workout👇',
+                    'Send this to someone who needs to take a hint and do Liney\'s newest Quiet Cardio workout👇',
             likes: 636,
             comments: [
                 { user: 'grapefitt', text: 'My apartment bilding should be thankful I live on the ground floor😂' },
@@ -203,8 +205,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'damn_itskaren', text: 'Me after I eat a salad' },
                 { user: 'vickychilwal', text: 'What an elegant lady she is... 🤣' }
             ]
-    },  
-       
+    }
         
         //,
         //{
