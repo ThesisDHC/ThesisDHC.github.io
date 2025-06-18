@@ -216,6 +216,7 @@ td {
 .story-feature {
   padding-top: 8px;
   margin-top: 16px;
+  margin-bottom: 12px;
   height: 80px;
   width: 66px;
   display: flex;
