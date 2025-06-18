@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: '', 
             mediaSrc: 'media/Post1_HomeDecor.jpg',  
             caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home. <br>' +
-                'What\'s your favorite corner in your space?💖' +
+                'What\'s your favorite corner in your space?💖 <br>' +
                 '#HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
             likes: 9.483,
             comments: [
@@ -38,8 +38,8 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'alenawinternaturalhealth',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel7_MHHealDepression.mp4',
-            caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛' +
-                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗' +
+            caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
+                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗 <br>' +
                     'And please note: if you’re really struggling, seeking help is essential. These recommendations are not designed to replace professional support. They can (and should) be used alongside any other treatments you’re already doing (although not all supplements are safe with medications, so always work with an experienced naturopath or herbalist for guidance on taking supplements/herbs with medications. You also likely won’t need everything listed here, these are just some examples) 🌿💊',
             likes: '1.374',
             comments: [
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'lifewithbooks',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Post3_book.jpg',
-            caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂' +
+            caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
                     '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
             likes: '78.612k',
             comments: [
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'scottvisits',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel1_Travel.mp4',
-            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels' +
+            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels <br>' +
                     '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta',
             likes: '104k',
             comments: [
@@ -91,16 +91,16 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel8_MHGutSupplements.mp4',
             caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family.' +
-                    'But now I can recommend a regiment that has over 100 clinical trial results where there was a' +
-                    '💜 60% DECREASE IN IRRITABILITY SCORES' +
-                    '💜 49% REDUCTION IN OVERALL DISTRESS' +
-                    '💜 70% INCREASE IN GOOD BACTERIA' +
-                    '💜 211% INCREASE IN POSITIVE MOOD ' +
-                    '💜 105% DECREASE IN NEGATIVE MOOD' +
-                    'It reduces stress by lowering cortisol exposure and improves GABA neutrotransmission.*' +
-                    'It enhances calmness by decreasing feelings of anxiousness and improves cognitive function.*' +
-                    'And improves mood by decreasing neuroinflammation and increasing serotoning.*' +
-                    'Drop HAPPY  to get the info right to your inbox💞 because everyone deserves a chance to be happy 🙌.' +
+                    'But now I can recommend a regiment that has over 100 clinical trial results where there was a <br>' +
+                    '💜 60% DECREASE IN IRRITABILITY SCORES <br>' +
+                    '💜 49% REDUCTION IN OVERALL DISTRESS <br>' +
+                    '💜 70% INCREASE IN GOOD BACTERIA <br>' +
+                    '💜 211% INCREASE IN POSITIVE MOOD <br>' +
+                    '💜 105% DECREASE IN NEGATIVE MOOD <br>' +
+                    'It reduces stress by lowering cortisol exposure and improves GABA neutrotransmission.* <br>' +
+                    'It enhances calmness by decreasing feelings of anxiousness and improves cognitive function.* <br>' +
+                    'And improves mood by decreasing neuroinflammation and increasing serotoning.* <br>' +
+                    'Drop HAPPY  to get the info right to your inbox💞 because everyone deserves a chance to be happy 🙌. <br>' +
                    '#mentalhealthadvocate #mentlhealthmatters #mentalhealthprofessional #sleepsupport # holisticmentalhealth # holisticwellness',
             likes: '104k',
             comments: [
