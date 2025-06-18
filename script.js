@@ -10,14 +10,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const feedData = [
         {
             type: 'post',
-            username: 'Fake Tagesschau',
+            username: 'the.home.edit',
             avatar: '', 
-            mediaSrc: 'media/post1.jpg',  
-            caption: 'Das ist der erste Post, und zwar ein Bild.',
-            likes: 125,
+            mediaSrc: 'media/Post1_HomeDecor.jpg',  
+            caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.
+                What's your favorite corner in your space?💖
+                #HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
+            likes: 9,483,
             comments: [
-                { user: 'Lukas', text: 'Du kannst auch eigene Kommentare eingeben!' },
-                { user: 'Lukas', text: 'Du kannst auch eigene Kommentare eingeben!' }
+                { user: 'alia.xtr', text: 'Love the aesthetics!' },
+                { user: 'lucas_104', text: 'So pretty!' }
             ]
         },
         {
