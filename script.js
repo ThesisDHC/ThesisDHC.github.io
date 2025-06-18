@@ -47,7 +47,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'margot_utrecht', text: 'Every doctor should start with these before even thinking about medication!' }
             ]
     },       
-    }
         {
             type: 'reel',
             username: '9gag',
@@ -60,7 +59,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'teachermisery', text: 'This is the kind of real life brilliance that AI could never conjure up' }
             ]
     },       
-    }
     {
             type: 'post',
             username: 'lifewithbooks',
@@ -74,26 +72,36 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'claire_xoxo', text: 'Rebecca better bring him back in the next one😭' }
             ]
     }, 
-        {
+    {
             type: 'reel',
             username: 'scottvisits',
             avatar: 'media/avatar2.jpg',
             mediaSrc: 'media/Reel1_Travel.mp4',
             caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels'
-                    '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta,
+                    '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta',
             likes: 104k,
             comments: [
                 { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
                 { user: 'mrdemosho', text: 'Where do you recommend in Slovenia please' }
             ]
     },   
-             {
+    {
             type: 'reel',
-            username: 'scottvisits',
+            username: 'allthingsneena',
             avatar: 'media/avatar2.jpg',
-            mediaSrc: 'media/Reel1_Travel.mp4',
-            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels'
-                    '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta,
+            mediaSrc: 'media/Reel8_MHGutSupplements.mp4',
+            caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family. 
+                    'But now I can recommend a regiment that has over 100 clinical trial results where there was a 
+                    '💜 60% DECREASE IN IRRITABILITY SCORES
+                    '💜 49% REDUCTION IN OVERALL DISTRESS
+                    '💜 70% INCREASE IN GOOD BACTERIA
+                    '💜 211% INCREASE IN POSITIVE MOOD 
+                    '💜 105% DECREASE IN NEGATIVE MOOD
+                    'It reduces stress by lowering cortisol exposure and improves GABA neutrotransmission.*
+                    'It enhances calmness by decreasing feelings of anxiousness and improves cognitive function.*
+                    'And improves mood by decreasing neuroinflammation and increasing serotoning.*
+                    'Drop HAPPY  to get the info right to your inbox💞 because everyone deserves a chance to be happy 🙌.
+                   '#mentalhealthadvocate #mentlhealthmatters #mentalhealthprofessional #sleepsupport # holisticmentalhealth # holisticwellness',
             likes: 104k,
             comments: [
                 { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
