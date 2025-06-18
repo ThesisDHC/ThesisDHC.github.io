@@ -11,10 +11,10 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'post',
             username: 'healthydiary',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/post2_BuddhaBowl.jpg',
-            caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep!'
-                    'What is your favorite healthy go-to?'
+            caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
+                    'What is your favorite healthy go-to? <br>' +
                     '#Healthyeating #Recipeshare #Mealprep #Foodie #Cleaneating #Nutritious',
             likes: 48.204,
             comments: [
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'dwnews',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/Reel14_NewsGraz.mp4',
             caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.' + 
                     'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'alenawinternaturalhealth',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/Reel7_MHHealDepression.mp4',
             caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
                     'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗 <br>' +
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: '9gag',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/Reel2_FunnyDogs.mp4',
             caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! #barked #dog #doggo #AmericanPitbullTerrier #9gag',
             likes: '246k',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'post',
             username: 'lifewithbooks',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/Post3_book.jpg',
             caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
                     '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
@@ -76,21 +76,21 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: 'allthingsneena',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/Reel8_MHGutSupplements.mp4',
-            caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family. 
-                    'But now I can recommend a regiment that has over 100 clinical trial results where there was a'
-                    '💜 60% DECREASE IN IRRITABILITY SCORES'
-                    '💜 49% REDUCTION IN OVERALL DISTRESS'
-                    '💜 70% INCREASE IN GOOD BACTERIA'
-                    '💜 211% INCREASE IN POSITIVE MOOD' 
-                    '💜 105% DECREASE IN NEGATIVE MOOD'
-                    'It reduces stress by lowering cortisol exposure and improves GABA neutrotransmission.*'
-                    'It enhances calmness by decreasing feelings of anxiousness and improves cognitive function.*'
-                    'And improves mood by decreasing neuroinflammation and increasing serotoning.*'
-                    'Drop HAPPY  to get the info right to your inbox💞 because everyone deserves a chance to be happy 🙌.'
+            caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family. <br>' + 
+                    'But now I can recommend a regiment that has over 100 clinical trial results where there was a <br>' +
+                    '💜 60% DECREASE IN IRRITABILITY SCORES <br>' +
+                    '💜 49% REDUCTION IN OVERALL DISTRESS <br>' +
+                    '💜 70% INCREASE IN GOOD BACTERIA <br>' +
+                    '💜 211% INCREASE IN POSITIVE MOOD  <br>' +
+                    '💜 105% DECREASE IN NEGATIVE MOOD <br>' +
+                    'It reduces stress by lowering cortisol exposure and improves GABA neutrotransmission.* <br>' +
+                    'It enhances calmness by decreasing feelings of anxiousness and improves cognitive function.* <br>' + 
+                    'And improves mood by decreasing neuroinflammation and increasing serotoning.* <br>' +
+                    'Drop HAPPY  to get the info right to your inbox💞 because everyone deserves a chance to be happy 🙌.<br>' +
                    '#mentalhealthadvocate #mentlhealthmatters #mentalhealthprofessional #sleepsupport # holisticmentalhealth # holisticwellness',
-            likes: 104k,
+            likes: '104k',
             comments: [
                 { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
                 { user: 'mrdemosho', text: 'Where do you recommend in Slovenia please' }
@@ -101,41 +101,39 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'the.home.edit',
             avatar: '', 
             mediaSrc: 'media/Post1_HomeDecor.jpg',  
-            caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.'
-                'What's your favorite corner in your space?💖'
+            caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.<br>' +
+                'What\'s your favorite corner in your space?💖<br>' +
                 '#HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
-            likes: 9.483,
+            likes: '9.483k',
             comments: [
                 { user: 'alia.xtr', text: 'Love the aesthetics!' },
                 { user: 'lucas_104', text: 'So pretty!' }
             ]
-    },   
-    {
         },   
         {
             type: 'reel',
             username: 'allthingsneena',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/Reel1_Travel.mp4',
-            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels'
+            caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels<br>' +
                     '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta',
-            likes: 104k,
+            likes: '104k',
             comments: [
                 { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
                 { user: 'mrdemosho', text: 'Where do you recommend in Slovenia please' }
             ]
-    },
-    {
+        },
+        {
             type: 'reel',
             username: 'therebirthingjourney',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/reel11_MHYogaDepression',
-            caption: 'Depressed???
-                    'It’s a state of mind only and you can change it. Do some dynamic practice and depression will not come to you.'
-                    'Join me in upcoming Himalayan kriya yoga program.'
-                    'Link in bio.'
+            caption: 'Depressed???<br>' +
+                    'It’s a state of mind only and you can change it. Do some dynamic practice and depression will not come to you.<br>' +
+                    'Join me in upcoming Himalayan kriya yoga program.<br>' +
+                    'Link in bio.<br>' +
                     '#depression #kalimudra #anxiety #depressionawareness #curedepression #mentalhealthawareness #mentalhealth #menttalhealthsupport #meditation #kriyayoga #himalayankriyayoga',
-            likes: 61,3k,
+            likes: '61,3k',
             comments: [
                 { user: 'sreya_teja365', text: 'Me seeing his pain in it😢' },
                 { user: 'reyaceridwen', text: 'The comments are of epic scale. Just reading the comments no one can be depressed.' }
@@ -144,9 +142,9 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: '9gag and richmngani24',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/reel3_FunnyBed.mp4',
-            caption: 'When you are wasting a Saturday at home, rotting in bed, and it starts raining outside.
+            caption: 'When you are wasting a Saturday at home, rotting in bed, and it starts raining outside.<br>' +
                     '#fyp #reels #viral #southafrica #foryou #explore',
             likes: '978k',
             comments: [
@@ -157,11 +155,11 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'themadfitapp and grapefitt',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/reel5_Fitness.mp4',
-            caption: 'Who is Liney calling out🫣'
+            caption: 'Who is Liney calling out🫣<br>' +
                     'Send this to someone who needs to take a hint and do Liney\'s newest Quiet Cardio workout👇',
-            likes: 636,
+            likes: '636',
             comments: [
                 { user: 'grapefitt', text: 'My apartment bilding should be thankful I live on the ground floor😂' },
                 { user: 'cheyyc_', text: 'good to know this is a universal experience all have😂' }
@@ -170,9 +168,9 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'post',
             username: 'easymentalhealth',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/post4_MH.jpg',
-            caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let's explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?'
+            caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let\'s explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?<br>' +
                     '#Mentalwellnessjourney #Holistichealth #Emotionalwellbeing #Beyondthepill',
             likes: 22.870,
             comments: [
@@ -183,12 +181,12 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'nytimes',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/reel15_NewsLAProtests.mp4',
-            caption: 'Experts say that some aggressive measure used by the authorities in the Los Angeles protests have violated policies as well as injunctions put into place after the George Floyd protests. Livia Albeck-Ripka, a New York Times reporter based in Los Angeles, describes how she was one of the reporters struck by crowd control munitions.'
-                    'Read the latest updates from the protests in California at the link in our bio.'
+            caption: 'Experts say that some aggressive measure used by the authorities in the Los Angeles protests have violated policies as well as injunctions put into place after the George Floyd protests. Livia Albeck-Ripka, a New York Times reporter based in Los Angeles, describes how she was one of the reporters struck by crowd control munitions.<br>' +
+                    'Read the latest updates from the protests in California at the link in our bio.<br>' +
                     'Video by Livia Albeck-Ripka, Gabriel Blanco, Christina shaman and Nikolay Nikolov/The New York Times',
-            likes: 47k,
+            likes: '47k',
             comments: [
                 { user: 'racionali.ze', text: 'Impeach him' },
                 { user: '', text: '"Fairly agressive" is an understatement' }
@@ -197,7 +195,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: '9gag',
-            avatar: 'media/avatar2.jpg',
+            avatar: '',
             mediaSrc: 'media/reel4_FunnyCow',
             caption: 'living in the moment🌿',
             likes: 212k,
