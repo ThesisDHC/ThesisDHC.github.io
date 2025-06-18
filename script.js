@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
             caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.<br>' +
                 'What\'s your favorite corner in your space?💖<br>' +
                 '#HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
-            likes: '9.483k',
+            likes: '9.483',
             comments: [
                 { user: 'alia.xtr', text: 'Love the aesthetics!' },
                 { user: 'lucas_104', text: 'So pretty!' }
@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/post4_MH.jpg',
             caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let\'s explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?<br>' +
                     '#Mentalwellnessjourney #Holistichealth #Emotionalwellbeing #Beyondthepill',
-            likes: 22.870,
+            likes: '22.870',
             comments: [
                 { user: 'hannaahh', text: 'Finally someone adressing how detrimental pills are!' },
                 { user: 'kyle_got_it', text: 'This is such a gamechanger' }
@@ -198,7 +198,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: '',
             mediaSrc: 'media/reel4_FunnyCow',
             caption: 'living in the moment🌿',
-            likes: 212k,
+            likes: '212k',
             comments: [
                 { user: 'damn_itskaren', text: 'Me after I eat a salad' },
                 { user: 'vickychilwal', text: 'What an elegant lady she is... 🤣' }
