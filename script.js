@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/Post2_BuddhaBowl.jpg',
             caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
                     'What is your favorite healthy go-to? <br>' +
-                    '#Healthyeating #Recipeshare #Mealprep #Foodie #Cleaneating #Nutritious',
+                    '<a href="#">#Healthyeating</a> <a href="#">#Recipeshare</a> <a href="#">#Mealprep</a> <a href="#">#Foodie</a> <a href="#">#Cleaneating</a> <a href="#">#Nutritious</a>',
             likes: '48.204',
             comments: [
                 { user: 'nanarose', text: 'This looks absolutely delicious😋.' },
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             username: '9gag',
             avatar: '',
             mediaSrc: 'media/Reel2_FunnyDogs.mp4',
-            caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! #barked #dog #doggo #AmericanPitbullTerrier #9gag',
+            caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! <a href="#">#barked</a># <a href="#">#dog</a> <a href="#">#doggo</a> <a href="#">#AmericanPitbullTerrier</a> <a href="#">#9gag</a>',
             likes: '246k',
             comments: [
                 { user: 'big_geezy_wee', text: 'That\'s nuts 🥜' },
