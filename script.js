@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.
                 What's your favorite corner in your space?💖
                 #HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
-            likes: 9,483,
+            likes: 9.483,
             comments: [
                 { user: 'alia.xtr', text: 'Love the aesthetics!' },
                 { user: 'lucas_104', text: 'So pretty!' }
@@ -24,22 +24,27 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             type: 'reel',
-            username: 'Fake F1',
+            username: 'dwnews',
             avatar: 'media/avatar2.jpg',
-            mediaSrc: 'media/Reel2_Funny_dogs.mp4',
-            caption: 'Das ist der zweite Post, und zwar ein Reel',
-            likes: 345,
+            mediaSrc: 'media/Reel4_NewsGraz.mp4',
+            caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.'
+                    'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
+            likes: 4.638,
             comments: [
             ]
         },
         {
             type: 'reel',
-            username: 'Fake F1',
+            username: 'alenawinternaturalhealth',
             avatar: 'media/avatar2.jpg',
-            mediaSrc: 'media/Reel2_Funny_dogs.mp4',
-            caption: 'Das ist der zweite Post, und zwar ein Reel',
-            likes: 345,
+            mediaSrc: 'media/Ree7_MHHealDepression.mp4',
+            caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛
+                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗'
+                    'And please note: if you’re really struggling, seeking help is essential. These recommendations are not designed to replace professional support. They can (and should) be used alongside any other treatments you’re already doing (although not all supplements are safe with medications, so always work with an experienced naturopath or herbalist for guidance on taking supplements/herbs with medications. You also likely won’t need everything listed here, these are just some examples) 🌿💊',
+            likes: 1.374,
             comments: [
+                { user: 'mirmaidg', text: 'That meal at the end looked so yummy, what was in that?' },
+                { user: 'margot_utrecht', text: 'Every doctor should start with these before even thinking about medication!' }
             ]
         }
         
