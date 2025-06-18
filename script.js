@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
                     'What is your favorite healthy go-to? <br>' +
                     '#Healthyeating #Recipeshare #Mealprep #Foodie #Cleaneating #Nutritious',
-            likes: 48.204,
+            likes: '48.204',
             comments: [
                 { user: 'nanarose', text: 'This looks absolutely delicious😋.' },
                 { user: 'antoncitorito', text: 'Thank you for all these amazing recipes!' }
@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: '9gag',
             avatar: '',
-            mediaSrc: 'media/Reel4_FunnyCow',
+            mediaSrc: 'media/Reel4_FunnyCow.mp4',
             caption: 'living in the moment🌿',
             likes: '212k',
             comments: [
