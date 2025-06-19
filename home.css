@@ -413,11 +413,11 @@ hr{
     display: block; /* Entfernt zusätzlichen Platz unter dem Bild */
 }
 /* Speziell für Videos (Reels) */
-.post-media.video {
+.post-media-video {
     width: 100%;
     height: auto;
     max-height: 700px; /* Optional: Maximale Höhe für Videos */
-    background-color: black; /* Hintergrund für Video-Element */
+    background-color: white; /* Hintergrund für Video-Element */
 }
 
 .post-actions {
