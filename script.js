@@ -79,14 +79,6 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/Reel7_MHGutSupplements.mp4',
             caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family. <br>' + 
                     'But now I can recommend a regiment that has over 100 clinical trial results where there was a <br>' +
-                    '💜 60% DECREASE IN IRRITABILITY SCORES <br>' +
-                    '💜 49% REDUCTION IN OVERALL DISTRESS <br>' +
-                    '💜 70% INCREASE IN GOOD BACTERIA <br>' +
-                    '💜 211% INCREASE IN POSITIVE MOOD  <br>' +
-                    '💜 105% DECREASE IN NEGATIVE MOOD <br>' +
-                    'It reduces stress by lowering cortisol exposure and improves GABA neutrotransmission.* <br>' +
-                    'It enhances calmness by decreasing feelings of anxiousness and improves cognitive function.* <br>' + 
-                    'And improves mood by decreasing neuroinflammation and increasing serotoning.* <br>' +
                     'Drop HAPPY  to get the info right to your inbox💞 because everyone deserves a chance to be happy 🙌.<br>' +
                    '#mentalhealthadvocate #mentlhealthmatters #mentalhealthprofessional #sleepsupport # holisticmentalhealth # holisticwellness',
             likes: '104k',
