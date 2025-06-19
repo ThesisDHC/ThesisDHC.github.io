@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'dwnews',
             avatar: 'media/Profilepic9_NewsGraz.jpg',
-            mediaSrc: 'media/Reel14_NewsGraz.mp4',
+            mediaSrc: 'media/Reel9_NewsGraz.mp4',
             caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.' + 
                     'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
             likes: '4.648',
