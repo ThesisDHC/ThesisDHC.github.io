@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'post',
             username: 'healthydiary',
-            avatar: '',
+            avatar: 'Profilepic2_BuddhaBowl',
             mediaSrc: 'media/Post2_BuddhaBowl.jpg',
             caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
                     'What is your favorite healthy go-to? <br>' +
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'post',
             username: 'lifewithbooks',
-            avatar: '',
+            avatar: 'Profilepic3_Books',
             mediaSrc: 'media/Post3_book.jpg',
             caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
                     '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'post',
             username: 'the.home.edit',
-            avatar: '', 
+            avatar: 'Profilepic1_HomeDecor', 
             mediaSrc: 'media/Post1_HomeDecor.jpg',  
             caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.<br>' +
                 'What\'s your favorite corner in your space?💖<br>' +
@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'post',
             username: 'easymentalhealth',
-            avatar: '',
+            avatar: 'Profilepic4_MH',
             mediaSrc: 'media/Post4_MH.jpg',
             caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let\'s explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?<br>' +
                     '#Mentalwellnessjourney #Holistichealth #Emotionalwellbeing #Beyondthepill',
