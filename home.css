@@ -407,8 +407,9 @@ hr{
     color: #000000;
 }
 
-.post-media {
+.post-media{
     width: 100%;
+    max-width: 500px; 
     height: auto;
     display: block; /* Entfernt zusätzlichen Platz unter dem Bild */
 }
@@ -417,7 +418,44 @@ hr{
     width: 100%;
     height: auto;
     max-height: 700px; /* Optional: Maximale Höhe für Videos */
-    background-color: white; /* Hintergrund für Video-Element */
+    background-color: rgb(255, 255, 255); /* Hintergrund für Video-Element */
+}
+
+.carousel-container {
+  position: relative;
+  width: 100%;
+  max-width: 500px; /* adjust as needed */
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#carousel-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.nav-button {
+    position: absolute;         /* Position relative to carousel container */
+    top: 50%;                   /* Vertically center */
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.prevBtn {
+    left: 10px;
+}
+
+.nextBtn {
+    right: 10px;
 }
 
 .post-actions {
