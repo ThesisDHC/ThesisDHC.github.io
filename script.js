@@ -183,13 +183,10 @@ document.addEventListener('DOMContentLoaded', () => {
             username: 'nytimes',
             avatar: 'Reel10_NewsLAProtests.jpg',
             mediaSrc: 'media/Reel10_NewsGaza.mp4',
-            caption: 'Experts say that some aggressive measure used by the authorities in the Los Angeles protests have violated policies as well as injunctions put into place after the George Floyd protests. Livia Albeck-Ripka, a New York Times reporter based in Los Angeles, describes how she was one of the reporters struck by crowd control munitions.<br>' +
-                    'Read the latest updates from the protests in California at the link in our bio.<br>' +
-                    'Video by Livia Albeck-Ripka, Gabriel Blanco, Christina shaman and Nikolay Nikolov/The New York Times',
-            likes: '47.253',
+            caption: ' The Israeli military said it was “aware of reports regarding a number of injured individuals from IDF fire,” after the Gaza Ministry of Health said that more than 50 Palestinians were killed near an aid distribution site in Khan Younis on Tuesday and blamed Israel for the deaths.',
+            likes: '28.4k',
             comments: [
-                { user: 'racionali.ze', text: 'Impeach him' },
-                { user: '', text: '"Fairly agressive" is an understatement' }
+                { user: 'gnl2006', text: 'Literal genocide caught on video, and people will still defend Israel.' },
             ]
     },   
     {
