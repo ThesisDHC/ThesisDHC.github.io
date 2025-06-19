@@ -40,8 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic6_MHHealDepression.jpg',
             mediaSrc: 'media/Reel6_MHHealDepression.mp4',
             caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
-                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗 <br>' +
-                    'And please note: if you’re really struggling, seeking help is essential. These recommendations are not designed to replace professional support. They can (and should) be used alongside any other treatments you’re already doing (although not all supplements are safe with medications, so always work with an experienced naturopath or herbalist for guidance on taking supplements/herbs with medications. You also likely won’t need everything listed here, these are just some examples) 🌿💊',
+                    'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗🌿💊 <br>',
             likes: '1.374',
             comments: [
                 { user: 'mirmaidg', text: 'That meal at the end looked so yummy, what was in that?' },
