@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
             likes: '160k',
             comments: [
                 { user: 'marmiko_deceita', text: 'The rain confirms that I am right where I am supposed to be😂' },
-                { user: 'doramustabitha', text: 'Mother nature saing "Get comfy baby, we going to binge todayyy"👏😂😂😂' }
+                { user: 'doramustabitha', text: 'Mother nature saying "Get comfy baby, we going to binge todayyy"👏😂😂😂' }
             ]
     },   
     {
