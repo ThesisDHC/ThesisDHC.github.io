@@ -233,7 +233,9 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
             ${post.type === 'post' ? 
                 `<img src="${post.mediaSrc}" alt="Post Image" class="post-media">` :
-                `<video src="${post.mediaSrc}" class="post-media video" autoplay controls loop muted playsinline></video>`
+                `<video class="post-media-video" muted controls playsinline loop autoplay>
+                    <source src="${post.mediaSrc}" type="video/mp4">
+                </video>`
             }
             <div class="post-actions">
                 <div class="left-icons">
