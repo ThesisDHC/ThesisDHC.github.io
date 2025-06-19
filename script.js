@@ -191,7 +191,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'damn_itskaren', text: 'Me after I eat a salad' },
                 { user: 'vickychilwal', text: 'What an elegant lady she is... 🤣' }
             ]
-    }
+    },
+        {
+            type: 'gallery',
+            username: 'Fake F1',
+            avatar: 'media/avatar2.jpg',
+            mediaSrc: ['media/Post1_HomeDecor.jpg', 'media/Post4_MH.jpg'],
+            caption: 'Das ist der zweite Post, und zwar ein Reel',
+            likes: 345,
+            comments: [
+            ]
+        }
         
         //,
         //{
@@ -214,19 +224,29 @@ document.addEventListener('DOMContentLoaded', () => {
         const postCard = document.createElement('div');
         postCard.classList.add('post-card');
 
+        // Create innerHTML without the script
         postCard.innerHTML = `
             <div class="post-header">
-                ${post.avatar=== '' ? 
+                ${post.avatar === '' ?
                 `<img src="media/profile_pic.jpg" alt="${post.username}" class="profile-picture">` :
                 `<img src="${post.avatar}" alt="${post.username}" class="profile-picture">`
-                }
+            }
                 <span class="username">${post.username}</span>
             </div>
-            ${post.type === 'post' ? 
-                `<img src="${post.mediaSrc}" alt="Post Image" class="post-media">` :
-                `<video class="post-media-video" muted controls playsinline loop autoplay>
+            ${post.type === 'post' ?
+                `<img class="post-media" src="${post.mediaSrc}" alt="Post Image">` :
+                post.type === 'reel' ?
+                    `<video class="post-media-video" muted controls playsinline loop autoplay>
                     <source src="${post.mediaSrc}" type="video/mp4">
-                </video>`
+                    Your browser does not support the video tag.
+                </video>` :
+                    post.type === 'gallery' ?
+                        `<div class="carousel-container">
+                    <button class="nav-button prevBtn">&#10094;</button>
+                    <img class="post-media carousel-image" src="${post.mediaSrc[0]}" alt="Carousel Image">
+                    <button class="nav-button nextBtn">&#10095;</button>
+                </div>` :
+                        `<p>Unsupported post type: ${post.type}</p>`
             }
             <div class="post-actions">
                 <div class="left-icons">
@@ -238,7 +258,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <img src="media/icon_save.png" alt="Save">
                 </div>
             </div>
-            <div class="likes-count">Liked by ${post.likes} </div>
+            <div class="likes-count">Gefällt ${post.likes} Mal</div>
             <div class="post-caption">
                 <span class="username">${post.username}</span> ${post.caption}
             </div>
@@ -246,9 +266,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 ${post.comments.map(comment => `<p><b>${comment.user}</b> ${comment.text}</p>`).join('')}
             </div>` : ''}
             <div class="post-time">View all comments</div>
-            
             <hr>
         `;
+
+        // Setup gallery JS logic separately
+        if (post.type === 'gallery') {
+            const images = post.mediaSrc;
+            let currentIndex = 0;
+
+            const carouselImage = postCard.querySelector(".carousel-image");
+            const prevBtn = postCard.querySelector(".prevBtn");
+            const nextBtn = postCard.querySelector(".nextBtn");
+
+            const showImage = (index) => {
+                carouselImage.src = images[index];
+            };
+
+            prevBtn.addEventListener("click", () => {
+                currentIndex = (currentIndex - 1 + images.length) % images.length;
+                showImage(currentIndex);
+            });
+
+            nextBtn.addEventListener("click", () => {
+                currentIndex = (currentIndex + 1) % images.length;
+                showImage(currentIndex);
+            });
+        }
+
         return postCard;
     }
 
