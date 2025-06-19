@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'post',
             username: 'healthydiary',
-            avatar: 'Profilepic2_BuddhaBowl.jpg',
+            avatar: 'media/Profilepic2_BuddhaBowl.jpg',
             mediaSrc: 'media/Post2_BuddhaBowl.jpg',
             caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
                     'What is your favorite healthy go-to? <br>' +
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'dwnews',
-            avatar: 'Profilepic9_NewsGraz.jpg',
+            avatar: 'media/Profilepic9_NewsGraz.jpg',
             mediaSrc: 'media/Reel14_NewsGraz.mp4',
             caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.' + 
                     'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'alenawinternaturalhealth',
-            avatar: 'Profilepic6_MHHealDepression.jpg',
+            avatar: 'media/Profilepic6_MHHealDepression.jpg',
             mediaSrc: 'media/Reel7_MHHealDepression.mp4',
             caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
                     'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗 <br>' +
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: '9gag',
-            avatar: 'Profilepic_Funny.jpg',
+            avatar: 'media/Profilepic_Funny.jpg',
             mediaSrc: 'media/Reel2_FunnyDogs.mp4',
             caption: 'Ah, finally found the comy napping spot! I Follow @barked for more funny dogs! <a href="#">#barked</a># <a href="#">#dog</a> <a href="#">#doggo</a> <a href="#">#AmericanPitbullTerrier</a> <a href="#">#9gag</a>',
             likes: '248k',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'post',
             username: 'lifewithbooks',
-            avatar: 'Profilepic3_Books.jpg',
+            avatar: 'media/Profilepic3_Books.jpg',
             mediaSrc: 'media/Post3_book.jpg',
             caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
                     '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: 'allthingsneena',
-            avatar: 'Profilepic7_MHGutSupplements.jpg',
+            avatar: 'media/Profilepic7_MHGutSupplements.jpg',
             mediaSrc: 'media/Reel8_MHGutSupplements.mp4',
             caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family. <br>' + 
                     'But now I can recommend a regiment that has over 100 clinical trial results where there was a <br>' +
@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'post',
             username: 'the.home.edit',
-            avatar: 'Profilepic1_HomeDecor.jpg', 
+            avatar: 'media/Profilepic1_HomeDecor.jpg', 
             mediaSrc: 'media/Post1_HomeDecor.jpg',  
             caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.<br>' +
                 'What\'s your favorite corner in your space?💖<br>' +
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: 'scottvisits',
-            avatar: 'Profilepic1_Travel.jpg',
+            avatar: 'media/Profilepic1_Travel.jpg',
             mediaSrc: 'media/Reel1_Travel.mp4',
             caption: 'The cheapest, best, and most underrated countries in Europe! You might be shocked by no. 1 is one of my favorite 🙌 Follow for more of my travels<br>' +
                     '#travel #traveleurope # europetravel #europe #travelgram #albania #slovenia #malta',
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: 'therebirthingjourney',
-            avatar: 'Profilepic8_MHYogaDepression.jpg',
+            avatar: 'media/Profilepic8_MHYogaDepression.jpg',
             mediaSrc: 'media/Reel11_MHYogaDepression.mp4',
             caption: 'Depressed???<br>' +
                     'It’s a state of mind only and you can change it. Do some dynamic practice and depression will not come to you.<br>' +
@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: '9gag and richmngani24',
-            avatar: 'Profilepic_Funny.jpg',
+            avatar: 'media/Profilepic_Funny.jpg',
             mediaSrc: 'media/Reel3_FunnyBed.mp4',
             caption: 'When you are wasting a Saturday at home, rotting in bed, and it starts raining outside.<br>' +
                     '#fyp #reels #viral #southafrica #foryou #explore',
@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'themadfitapp and grapefitt',
-            avatar: 'Profilepic5_Fitness.jpg',
+            avatar: 'media/Profilepic5_Fitness.jpg',
             mediaSrc: 'media/Reel5_Fitness.mp4',
             caption: 'Who is Liney calling out🫣<br>' +
                     'Send this to someone who needs to take a hint and do Liney\'s newest Quiet Cardio workout👇',
@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'post',
             username: 'easymentalhealth',
-            avatar: 'Profilepic4_MH.jpg',
+            avatar: 'media/Profilepic4_MH.jpg',
             mediaSrc: 'media/Post4_MH.jpg',
             caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let\'s explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?<br>' +
                     '#Mentalwellnessjourney #Holistichealth #Emotionalwellbeing #Beyondthepill',
@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'nytimes',
-            avatar: 'Reel10_NewsLAProtests.jpg',
+            avatar: 'media/Reel10_NewsLAProtests.jpg',
             mediaSrc: 'media/Reel10_NewsGaza.mp4',
             caption: ' The Israeli military said it was “aware of reports regarding a number of injured individuals from IDF fire,” after the Gaza Ministry of Health said that more than 50 Palestinians were killed near an aid distribution site in Khan Younis on Tuesday and blamed Israel for the deaths.',
             likes: '28.4k',
@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: '9gag',
-            avatar: 'Profilepic_Funny.jpg',
+            avatar: 'media/Profilepic_Funny.jpg',
             mediaSrc: 'media/Reel4_FunnyCow.mp4',
             caption: 'living in the moment🌿',
             likes: '213.936',
