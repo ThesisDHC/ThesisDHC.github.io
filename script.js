@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic3_Books.jpg',
             mediaSrc: 'media/Post3_book.jpg',
             caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
-                    '#ReadingTime #Bookstagram #LiteraryEscape #NewReads #Culture #Bookboyfriend',
+                    '#Reading #Bookstagram #Newreads #Bookboyfriend',
             likes: '78.612k',
             comments: [
                 { user: 'romantasygirl', text: 'OMG I am stilly crying!!!' },
