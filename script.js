@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'nytimes',
             avatar: 'Reel10_NewsLAProtests.jpg',
-            mediaSrc: 'media/Reel15_NewsLAProtests.mp4',
+            mediaSrc: 'media/Reel10_NewsGaza.mp4',
             caption: 'Experts say that some aggressive measure used by the authorities in the Los Angeles protests have violated policies as well as injunctions put into place after the George Floyd protests. Livia Albeck-Ripka, a New York Times reporter based in Los Angeles, describes how she was one of the reporters struck by crowd control munitions.<br>' +
                     'Read the latest updates from the protests in California at the link in our bio.<br>' +
                     'Video by Livia Albeck-Ripka, Gabriel Blanco, Christina shaman and Nikolay Nikolov/The New York Times',
