@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'alenawinternaturalhealth',
             avatar: 'media/Profilepic6_MHHealDepression.jpg',
-            mediaSrc: 'media/Reel7_MHHealDepression.mp4',
+            mediaSrc: 'media/Reel6_MHHealDepression.mp4',
             caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
                     'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗 <br>' +
                     'And please note: if you’re really struggling, seeking help is essential. These recommendations are not designed to replace professional support. They can (and should) be used alongside any other treatments you’re already doing (although not all supplements are safe with medications, so always work with an experienced naturopath or herbalist for guidance on taking supplements/herbs with medications. You also likely won’t need everything listed here, these are just some examples) 🌿💊',
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'allthingsneena',
             avatar: 'media/Profilepic7_MHGutSupplements.jpg',
-            mediaSrc: 'media/Reel8_MHGutSupplements.mp4',
+            mediaSrc: 'media/Reel7_MHGutSupplements.mp4',
             caption: 'This is vulnerable for me to admit. Being a psychologist who in good nature couldn’t keep recommending neuropharmaceuticals put me at a tough place. But I wanted the best for my clients, for my friends and for my own family. <br>' + 
                     'But now I can recommend a regiment that has over 100 clinical trial results where there was a <br>' +
                     '💜 60% DECREASE IN IRRITABILITY SCORES <br>' +
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'therebirthingjourney',
             avatar: 'media/Profilepic8_MHYogaDepression.jpg',
-            mediaSrc: 'media/Reel11_MHYogaDepression.mp4',
+            mediaSrc: 'media/Reel8_MHYogaDepression.mp4',
             caption: 'Depressed???<br>' +
                     'It’s a state of mind only and you can change it. Do some dynamic practice and depression will not come to you.<br>' +
                     'Join me in upcoming Himalayan kriya yoga program.<br>' +
