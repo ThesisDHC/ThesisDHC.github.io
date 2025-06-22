@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
             caption: 'Das ist der zweite Post, und zwar ein Reel',
             likes: 5.328,
             comments: [
+                { user: 'juliexx', text: 'So helpful!' },
+                { user: 'marcello', text: 'You know it is reliable when they provide sources' }
             ]
         }
         
