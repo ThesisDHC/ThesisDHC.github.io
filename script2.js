@@ -37,21 +37,21 @@ document.addEventListener('DOMContentLoaded', () => {
         // Füge hier weitere Post-Objekte hinzu!
     ];
 
-    // Funktion zum Erstellen eines Post-Elements
+        // Funktion zum Erstellen eines Post-Elements
     function createPostElement(post) {
         const postCard = document.createElement('div');
         postCard.classList.add('post-card');
 
         // Create innerHTML without the script
         postCard.innerHTML = `
-            <div class="post-header">
-                ${post.avatar === '' ?
+        <div class="post-header">
+            ${post.avatar === '' ?
                 `<img src="media/profile_pic.jpg" alt="${post.username}" class="profile-picture">` :
                 `<img src="${post.avatar}" alt="${post.username}" class="profile-picture">`
             }
-                <span class="username">${post.username}</span>
-            </div>
-            ${post.type === 'post' ?
+            <span class="username">${post.username}</span>
+        </div>
+        ${post.type === 'post' ?
                 `<img class="post-media" src="${post.mediaSrc}" alt="Post Image">` :
                 post.type === 'reel' ?
                     `<video class="post-media-video" muted controls playsinline loop autoplay>
@@ -66,26 +66,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>` :
                         `<p>Unsupported post type: ${post.type}</p>`
             }
-            <div class="post-actions">
-                <div class="left-icons">
-                    <img src="media/icon_heart.png" alt="Like">
-                    <img src="media/icon_comment.png" alt="Comment">
-                    <img src="media/icon_share.png" alt="Share">
-                </div>
-                <div class="right-icons">
-                    <img src="media/icon_save.png" alt="Save">
-                </div>
+        <div class="post-actions">
+            <div class="left-icons">
+                <img src="media/icon_heart.png" alt="Like">
+                <img src="media/icon_comment.png" alt="Comment">
+                <img src="media/icon_share.png" alt="Share">
             </div>
-            <div class="likes-count">Gefällt ${post.likes} Mal</div>
-            <div class="post-caption">
-                <span class="username">${post.username}</span> ${post.caption}
+            <div class="right-icons">
+                <img src="media/icon_save.png" alt="Save">
             </div>
-            ${post.comments.length > 0 ? `<div class="post-comments">
-                ${post.comments.map(comment => `<p><b>${comment.user}</b> ${comment.text}</p>`).join('')}
-            </div>` : ''}
-            <div class="post-time">View all comments</div>
-            <hr>
-        `;
+        </div>
+        <div class="likes-count">Gefällt ${post.likes} Mal</div>
+        <div class="post-caption">
+            <span class="username">${post.username}</span> ${post.caption}
+        </div>
+        ${post.comments.length > 0 ? `<div class="post-comments">
+            ${post.comments.map(comment => `<p><b>${comment.user}</b> ${comment.text}</p>`).join('')}
+        </div>` : ''}
+        <div class="post-time">View all comments</div>
+        <hr>
+    `;
 
         // Setup gallery JS logic separately
         if (post.type === 'gallery') {
@@ -98,7 +98,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const showImage = (index) => {
                 carouselImage.src = images[index];
+                // Hide prev button if on the first image, show otherwise
+                if (index === 0) {
+                    prevBtn.style.display = 'none';
+                } else {
+                    prevBtn.style.display = 'block';
+                }
+                // Hide next button if on the last image, show otherwise
+                if (index === images.length - 1) {
+                    nextBtn.style.display = 'none';
+                } else {
+                    nextBtn.style.display = 'block';
+                }
             };
+
+            // Initialize button visibility for the first image
+            showImage(currentIndex);
 
             prevBtn.addEventListener("click", () => {
                 currentIndex = (currentIndex - 1 + images.length) % images.length;
@@ -112,7 +127,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         return postCard;
-    }
+    };
+
+    // Assuming feedData and feedContainer are defined elsewhere
+    // For example:
+    // const feedData = [...]; 
+    // const feedContainer = document.getElementById('feed-container'); 
 
     feedData.forEach(post => {
         const postElement = createPostElement(post);
