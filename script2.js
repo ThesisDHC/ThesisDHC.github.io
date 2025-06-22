@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'gallery',
             username: 'mentalhealthfacts',
             avatar: 'media/Profilepic_MH.jpg',
-            mediaSrc: ['media/Post1_HomeDecor.jpg', 'media/Post4_MH.jpg'],
+            mediaSrc: ['media/Debunking1.jpg', 'media/Debunking2_Post_Pills.jpg', 'Debunking3_Reel_Holistically.jpg', 'Debunking4_Reel_Gutsupplements.jpg', 'Debunking5_Reel_Yoga.jpg', 'Debunking6.jpg'  ],
             caption: 'Das ist der zweite Post, und zwar ein Reel',
-            likes: 345,
+            likes: 5.328,
             comments: [
             ]
         }
