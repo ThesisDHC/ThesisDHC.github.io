@@ -12,11 +12,11 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'gallery',
             username: 'mentalhealthfacts',
             avatar: 'media/Profilepic_MH.jpg',
-            mediaSrc: ['media/Debunking1.jpg', 'media/Debunking2_Post_Pills.jpg', 'media/Debunking3_Reel_Holistically.jpg', 'media/Debunking4_Reel_Gutsupplements.jpg', 'media/Debunking5_Reel_Yoga.jpg', 'media/Debunking6.jpg'  ],
+            mediaSrc: ['media/De-debunking2.jpg', 'media/De-debunking2.jpg', 'media/De-debunking3.jpg', 'media/De-debunking4.jpg', 'media/De-debunking5.jpg', 'media/De-debunking6.jpg', 'media/De-debunking7.jpg'  ],
             caption: 'Das ist der zweite Post, und zwar ein Reel',
             likes: 5.328,
             comments: [
-                { user: 'juliexx', text: 'So helpful!' },
+                { user: 'juliexx', text: 'Love that this is nuanced and not one-sided!' },
                 { user: 'marcello', text: 'You know it is reliable when they provide sources' }
             ]
         }
