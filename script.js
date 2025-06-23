@@ -191,17 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'damn_itskaren', text: 'Me after I eat a salad' },
                 { user: 'vickychilwal', text: 'What an elegant lady she is... 🤣' }
             ]
-    },
-        {
-            type: 'gallery',
-            username: 'Fake F1',
-            avatar: 'media/avatar2.jpg',
-            mediaSrc: ['media/Post1_HomeDecor.jpg', 'media/Post4_MH.jpg'],
-            caption: 'Das ist der zweite Post, und zwar ein Reel',
-            likes: 345,
-            comments: [
-            ]
-        }
+    }
         
         //,
         //{
