@@ -19,7 +19,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
                 { user: 'nibhaille', text: 'Can't even buy a house to enjoy this carnage in' }
             ]
-        }
+        },
+        {
+            type: 'reel',
+            username: 'arsenal and kaihavertz29',
+            avatar: 'media/Profilepic_arsenal.jpg',
+            mediaSrc: 'media/Reel2_arsenal.mp4',
+            caption: '🎙️ “Continuing to deliver!” A clinical Kai finish to get us level 👊.',
+            likes: '187.071',
+            comments: [
+                { user: 'lougiebalouge07', text: 'King Kai 🔥🔥🔥' },
+                { user: 'noufohere', text: 'What a block and assist from Saka🔥' }
+            ]
+    },
         {
             type: 'gallery',
             username: 'mentalhealthfacts',
