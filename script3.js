@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'mitchmacmillan89', text: 'It needs a coffee in the other hand ☕️' },
                 { user: 'sneek071', text: 'I don’t see any beers' }
             ]
-        },
+        }
         
         //,
         //{
