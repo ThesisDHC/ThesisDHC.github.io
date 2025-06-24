@@ -43,7 +43,31 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'juliexx', text: 'So helpful!' },
                 { user: 'marcello', text: 'You know it is reliable when they provide sources' }
             ]
-        }
+        },
+        {
+            type: 'reel',
+            username: 'sarcasmonly',
+            avatar: 'media/Profilepic_sarcasmonly.jpg',
+            mediaSrc: ['media/Reel1_WW3.mp4'],
+            caption: 'Hold on guys, we got this😅',
+            likes: 836.460,
+            comments: [
+                { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
+                { user: 'nibhaille', text: 'Can't even buy a house to enjoy this carnage in' }
+            ]
+        },
+        {
+            type: 'reel',
+            username: 'fitgreenmind',
+            avatar: 'media/Profilepic_fitgreenmind.jpg',
+            mediaSrc: 'media/Reel3_tofu.mp4',
+            caption: 'Bored of eating a plain block of tofu?!🤨 Well then you should try shredding your tofu and makes these SHREDDED TOFU TACOS!😋',
+            likes: '53.4000',
+            comments: [
+                { user: 'plantifullybased', text: 'Looks so delicious!' },
+                { user: 'isabellxjean', text: '*puts down the half eaten plain block of Tofu*' }
+            ]
+    },
         
         //,
         //{
