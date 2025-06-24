@@ -12,12 +12,12 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'reel',
             username: 'sarcasmonly',
             avatar: 'media/Profilepic_sarcasmonly.jpg',
-            mediaSrc: ['media/Debunking1.jpg', 'media/Debunking2_Post_Pills.jpg', 'media/Debunking3_Reel_Holistically.jpg', 'media/Debunking4_Reel_Gutsupplements.jpg', 'media/Debunking5_Reel_Yoga.jpg', 'media/Debunking6.jpg'  ],
-            caption: 'Always consult your therapist and physician. These institutions provide additional reliable information: the World Health Organization, the National Health Service UK, or the National Institutes of Health #debunking #mentalhealthfacts #nomyths #nostigma',
-            likes: 5.328,
+            mediaSrc: ['media/Reel1_WW3.mp4'],
+            caption: 'Hold on guys, we got this😅',
+            likes: 836.460,
             comments: [
-                { user: 'juliexx', text: 'So helpful!' },
-                { user: 'marcello', text: 'You know it is reliable when they provide sources' }
+                { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
+                { user: 'nibhaille', text: 'Can't even buy a house to enjoy this carnage in' }
             ]
         }
         {
