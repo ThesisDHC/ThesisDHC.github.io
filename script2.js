@@ -9,6 +9,18 @@ document.addEventListener('DOMContentLoaded', () => {
     // comment: Hier kannst du Kommentare einfügen (wenn erwünscht)
     const feedData = [
         {
+            type: 'reel',
+            username: 'sarcasmonly',
+            avatar: 'media/Profilepic_sarcasmonly.jpg',
+            mediaSrc: ['media/Debunking1.jpg', 'media/Debunking2_Post_Pills.jpg', 'media/Debunking3_Reel_Holistically.jpg', 'media/Debunking4_Reel_Gutsupplements.jpg', 'media/Debunking5_Reel_Yoga.jpg', 'media/Debunking6.jpg'  ],
+            caption: 'Always consult your therapist and physician. These institutions provide additional reliable information: the World Health Organization, the National Health Service UK, or the National Institutes of Health #debunking #mentalhealthfacts #nomyths #nostigma',
+            likes: 5.328,
+            comments: [
+                { user: 'juliexx', text: 'So helpful!' },
+                { user: 'marcello', text: 'You know it is reliable when they provide sources' }
+            ]
+        }
+        {
             type: 'gallery',
             username: 'mentalhealthfacts',
             avatar: 'media/Profilepic_MH.jpg',
