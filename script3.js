@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_sarcasmonly.jpg',
             mediaSrc: ['media/Reel1_WW3.mp4'],
             caption: 'Hold on guys, we got this😅',
-            likes: 836.460,
+            likes: '836.460',
             comments: [
-                { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
+                { user: 'piips_', text: 'And then getting asked: why u don\'t want to have kids?' },
                 { user: 'nibhaille', text: 'Cannot even buy a house to enjoy this carnage in' }
             ]
         },
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_MH.jpg',
             mediaSrc: ['media/De-debunking1.jpg', 'media/De-debunking2.jpg', 'media/De-debunking3.jpg', 'media/De-debunking4.jpg', 'media/De-debunking5.jpg', 'media/De-debunking6.jpg', 'media/De-debunking7.jpg' ],
             caption: 'Always consult your therapist and physician. These institutions provide additional reliable information: the World Health Organization, the National Health Service UK, or the National Institutes of Health. #debunking #mentalhealthfacts #nomyths #nostigma',
-            likes: 5.328,
+            likes: '5.328',
             comments: [
                 { user: 'juliexx', text: 'Love that this is nuanced and not one-sided!' },
                 { user: 'marcello', text: 'You know it is reliable when they provide sources' }
