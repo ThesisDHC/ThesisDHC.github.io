@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
             likes: 836.460,
             comments: [
                 { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
-                { user: 'nibhaille', text: 'Can't even buy a house to enjoy this carnage in' }
+                { user: 'nibhaille', text: 'Cannot even buy a house to enjoy this carnage in' }
             ]
         },
         {
