@@ -8,7 +8,31 @@ document.addEventListener('DOMContentLoaded', () => {
     // likes: Wie viele Likes
     // comment: Hier kannst du Kommentare einfügen (wenn erwünscht)
     const feedData = [
-       {
+         {
+            type: 'reel',
+            username: 'sarcasmonly',
+            avatar: 'media/Profilepic_sarcasmonly.jpg',
+            mediaSrc: ['media/Reel1_WW3.mp4'],
+            caption: 'Hold on guys, we got this😅',
+            likes: 836.460,
+            comments: [
+                { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
+                { user: 'nibhaille', text: 'Can't even buy a house to enjoy this carnage in' }
+            ]
+        },
+        {
+            type: 'reel',
+            username: 'arsenal and kaihavertz29',
+            avatar: 'media/Profilepic_arsenal.jpg',
+            mediaSrc: 'media/Reel2_arsenal.mp4',
+            caption: '🎙️ “Continuing to deliver!” A clinical Kai finish to get us level 👊.',
+            likes: '187.071',
+            comments: [
+                { user: 'lougiebalouge07', text: 'King Kai 🔥🔥🔥' },
+                { user: 'noufohere', text: 'What a block and assist from Saka🔥' }
+            ]
+    },
+        {
             type: 'gallery',
             username: 'mentalhealthfacts',
             avatar: 'media/Profilepic_MH.jpg',
@@ -19,7 +43,31 @@ document.addEventListener('DOMContentLoaded', () => {
                 { user: 'juliexx', text: 'Love that this is nuanced and not one-sided!' },
                 { user: 'marcello', text: 'You know it is reliable when they provide sources' }
             ]
-        }
+        },
+        {
+            type: 'reel',
+            username: 'fitgreenmind',
+            avatar: 'media/Profilepic_fitgreenmind.jpg',
+            mediaSrc: 'media/Reel3_tofu.mp4',
+            caption: 'Bored of eating a plain block of tofu?!🤨 Well then you should try shredding your tofu and makes these SHREDDED TOFU TACOS!😋',
+            likes: '53.4000',
+            comments: [
+                { user: 'plantifullybased', text: 'Looks so delicious!' },
+                { user: 'isabellxjean', text: '*puts down the half eaten plain block of Tofu*' }
+            ]
+    },
+        {
+            type: 'reel',
+            username: '_quality_content_',
+            avatar: 'media/Profilepic_qualitycontent.jpg',
+            mediaSrc: ['media/Reel4_robot.mp4'],
+            caption: 'Now I lost all of my use cases 😭🤣',
+            likes: 747.927,
+            comments: [
+                { user: 'mitchmacmillan89', text: 'It needs a coffee in the other hand ☕️' },
+                { user: 'sneek071', text: 'I don’t see any beers' }
+            ]
+        },
         
         //,
         //{
