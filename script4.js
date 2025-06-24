@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_sarcasmonly.jpg',
             mediaSrc: ['media/Reel1_WW3.mp4'],
             caption: 'Hold on guys, we got this😅',
-            likes: 836.460,
+            likes: '836.460',
             comments: [
-                { user: 'piips_', text: 'And then getting asked: why u don't want to have kids?' },
+                { user: 'piips_', text: 'And then getting asked: why u don\'t want to have kids?' },
                 { user: 'nibhaille', text: 'Cannot even buy a house to enjoy this carnage in' }
             ]
         },
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_qualitycontent.jpg',
             mediaSrc: ['media/Reel4_robot.mp4'],
             caption: 'Now I lost all of my use cases 😭🤣',
-            likes: 747.927,
+            likes: '747.927',
             comments: [
                 { user: 'mitchmacmillan89', text: 'It needs a coffee in the other hand ☕️' },
                 { user: 'sneek071', text: 'I don’t see any beers' }
