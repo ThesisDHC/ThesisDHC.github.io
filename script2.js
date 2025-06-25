@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_fitgreenmind.jpg',
             mediaSrc: 'media/Reel3_tofu.mp4',
             caption: 'Bored of eating a plain block of tofu?!🤨 Well then you should try shredding your tofu and makes these SHREDDED TOFU TACOS!😋',
-            likes: '53,4000',
+            likes: '53,400',
             comments: [
                 { user: 'plantifullybased', text: 'Looks so delicious!' },
                 { user: 'isabellxjean', text: '*puts down the half eaten plain block of Tofu*' }
