@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'reel',
             username: 'arsenal and kaihavertz29',
-            avatar: 'media/Profilepic_arsenal.jpg',
+            avatar: 'media/Profilepic_havertz.jpg',
             mediaSrc: 'media/Reel2_arsenal.mp4',
             caption: '🎙️ “Continuing to deliver!” A clinical Kai finish to get us level 👊.',
             likes: '187.071',
