@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <img src="media/icon_save.png" alt="Save">
             </div>
         </div>
-        <div class="likes-count">Gefällt ${post.likes} Mal</div>
+        <div class="likes-count">Liked ${post.likes} by</div>
         <div class="post-caption">
             <span class="username">${post.username}</span> ${post.caption}
         </div>
