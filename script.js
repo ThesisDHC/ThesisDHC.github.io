@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             caption: 'Fueling up with this delicious and vibrant Buddha Bowl! 🥗 So easy to customize with whatever you have in the fridge or what you are craving. Recipe is linked in my bio as always – save this for your next meal prep! <br>' +
                     'What is your favorite healthy go-to? <br>' +
                     '<a href="#">#Healthyeating</a> <a href="#">#Recipeshare</a> <a href="#">#Mealprep</a> <a href="#">#Foodie</a> <a href="#">#Cleaneating</a> <a href="#">#Nutritious</a>',
-            likes: '48.204',
+            likes: '48,204',
             comments: [
                 { user: 'nanarose', text: 'This looks absolutely delicious😋.' },
                 { user: 'antoncitorito', text: 'Thank you for all these amazing recipes!' }
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/Reel9_NewsGraz.mp4',
             caption: 'Austrian have gathered to honor the ten people killed and several others injured in a school shooting in the city of Graz.' + 
                     'Police say that while they now know the gunman planned the attack in detail, they still don’t know why he did it.',
-            likes: '4.648',
+            likes: '4,648',
             comments: [
             ]
     },
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/Reel6_MHHealDepression.mp4',
             caption: 'I always recommend a holistic approach when it comes to supporting mental health 💛 <br>' +
                     'If the thought of making change feels overwhelming, start gradually. Choose one small area to begin with. Maybe it’s getting outside for 5 minutes a day, or making one nourishing meal. Build momentum, get the ball rolling, and then add in further strategies to support yourself as you feel able to 🤗🌿💊 <br>',
-            likes: '1.374',
+            likes: '1,374',
             comments: [
                 { user: 'mirmaidg', text: 'That meal at the end looked so yummy, what was in that?' },
                 { user: 'margot_utrecht', text: 'Every doctor should start with these before even thinking about medication!' }
@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/Post3_book.jpg',
             caption: 'To all my book girlies out there: anyone else still obsessing over the way Onyx Storm ended??🤯😭 This has got to be the worst book hangover ever! Any suggestions on how to get over it? And I don’t think daydreaming about our shadow daddy is an appropriate answer here...😂 <br>' +
                     '#Reading #Bookstagram #Newreads #Bookboyfriend',
-            likes: '78.612k',
+            likes: '78,612',
             comments: [
                 { user: 'romantasygirl', text: 'OMG I am stilly crying!!!' },
                 { user: 'claire_xoxo', text: 'Rebecca better bring him back in the next one😭' }
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
             caption: 'Bringing a little beauty into the everyday.✨ These small details truly make a house feel like a home.<br>' +
                 'What\'s your favorite corner in your space?💖<br>' +
                 '#HomeDecor #AestheticVibes #InteriorDesign #CozyHome #DecorInspo #LivingSpace',
-            likes: '9.483',
+            likes: '9,483',
             comments: [
                 { user: 'alia.xtr', text: 'Love the aesthetics!' },
                 { user: 'lucas_104', text: 'So pretty!' }
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     'Join me in upcoming Himalayan kriya yoga program.<br>' +
                     'Link in bio.<br>' +
                     '#depression #kalimudra #anxiety #depressionawareness #curedepression #mentalhealthawareness #mentalhealth #menttalhealthsupport #meditation #kriyayoga #himalayankriyayoga',
-            likes: '63.153',
+            likes: '63,153',
             comments: [
                 { user: 'sreya_teja365', text: 'Me seeing his pain in it😢' },
                 { user: 'reyaceridwen', text: 'The comments are of epic scale. Just reading the comments no one can be depressed.' }
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaSrc: 'media/Post4_MH.jpg',
             caption: 'There’s more to the story of mental health than taking pills that make you feel less like yourself. 🌿 Let\'s explore the many paths to healing, from nourishing our bodies to nurturing our minds and spirits instead of medication. A walk each day or changing your outlook on life will make such a difference! 💆🏻‍♀️💜What does your journey look like?<br>' +
                     '#Mentalwellnessjourney #Holistichealth #Emotionalwellbeing #Beyondthepill',
-            likes: '22.870',
+            likes: '22,870',
             comments: [
                 { user: 'hannaahh', text: 'Finally someone adressing how detrimental pills are!' },
                 { user: 'kyle_got_it', text: 'This is such a gamechanger' }
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Reel10_NewsLAProtests.jpg',
             mediaSrc: 'media/Reel10_NewsGaza.mp4',
             caption: ' The Israeli military said it was “aware of reports regarding a number of injured individuals from IDF fire,” after the Gaza Ministry of Health said that more than 50 Palestinians were killed near an aid distribution site in Khan Younis on Tuesday and blamed Israel for the deaths.',
-            likes: '28.4k',
+            likes: '28,400',
             comments: [
                 { user: 'gnl2006', text: 'Literal genocide caught on video, and people will still defend Israel.' },
             ]
@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_Funny.jpg',
             mediaSrc: 'media/Reel4_FunnyCow.mp4',
             caption: 'living in the moment🌿',
-            likes: '213.936',
+            likes: '213,936',
             comments: [
                 { user: 'damn_itskaren', text: 'Me after I eat a salad' },
                 { user: 'vickychilwal', text: 'What an elegant lady she is... 🤣' }
