@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'gallery',
             username: 'mentalhealthfacts',
             avatar: 'media/Profilepic_MH.jpg',
-            mediaSrc: ['media/De-debunking1.jpg', 'media/De-debunking2.jpg', 'media/De-debunking3.jpg', 'media/De-debunking4.jpg', 'media/De-debunking5.jpg', 'media/De-debunking6.jpg', 'media/De-debunking7.jpg' ],
+            mediaSrc: ['media/De-Debunking1.jpg', 'media/De-Debunking2.jpg', 'media/De-Debunking3.jpg', 'media/De-Debunking4.jpg', 'media/De-Debunking5.jpg', 'media/De-Debunking6.jpg', 'media/De-Debunking7.jpg' ],
             caption: 'Always consult your therapist and physician. These institutions provide additional reliable information: the World Health Organization, the National Health Service UK, or the National Institutes of Health. #debunking #mentalhealthfacts #nomyths #nostigma',
             likes: '5,328',
             comments: [
