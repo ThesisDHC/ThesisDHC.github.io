@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
             avatar: 'media/Profilepic_qualitycontent.jpg',
             mediaSrc: ['media/Reel4_robot.mp4'],
             caption: 'Now I lost all of my use cases 😭🤣',
-            likes: 747,927,
+            likes: '747,927',
             comments: [
                 { user: 'mitchmacmillan89', text: 'It needs a coffee in the other hand ☕️' },
                 { user: 'sneek071', text: 'I don’t see any beers' }
