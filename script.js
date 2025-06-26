@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
             type: 'reel',
             username: 'nytimes',
-            avatar: 'media/Reel10_NewsLAProtests.jpg',
+            avatar: 'media/Reel10_LAProtests.jpg',
             mediaSrc: 'media/Reel10_NewsGaza.mp4',
             caption: ' The Israeli military said it was “aware of reports regarding a number of injured individuals from IDF fire,” after the Gaza Ministry of Health said that more than 50 Palestinians were killed near an aid distribution site in Khan Younis on Tuesday and blamed Israel for the deaths.',
             likes: '28,400',
