@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
             likes: '104k',
             comments: [
                 { user: 'ryle092', text: 'Such a good approach!' },
-                { user: 'kayla_st', text: 'Worth a try' }
+                { user: 'kayla_st', text: 'Worth a try💞😍' }
             ]
     },  
     {
