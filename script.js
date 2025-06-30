@@ -68,8 +68,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     '#Reading #Bookstagram #Newreads #Bookboyfriend',
             likes: '78,612',
             comments: [
-                { user: 'romantasygirl', text: 'OMG I am stilly crying!!!' },
-                { user: 'claire_xoxo', text: 'Rebecca better bring him back in the next one😭' }
+                { user: 'romantasygirl', text: 'Rebecca better bring him back in the next one😭' },
+                { user: 'violetsorr', text: 'OMG I am still so confused and dead inside!!!' }
             ]
         }, 
         {
@@ -83,8 +83,8 @@ document.addEventListener('DOMContentLoaded', () => {
                    '#mentalhealthadvocate #mentlhealthmatters #mentalhealthprofessional #sleepsupport # holisticmentalhealth # holisticwellness',
             likes: '104k',
             comments: [
-                { user: 'luvoceanz', text: 'Totally agree with number 1. I have been to more than 50 countries and tell everyone Slovenia is truly a hidden gem and a jewel of Europe.' },
-                { user: 'mrdemosho', text: 'Where do you recommend in Slovenia please' }
+                { user: 'ryle092', text: 'Such a good approach!' },
+                { user: 'kayla_st', text: 'Worth a try' }
             ]
     },  
     {
